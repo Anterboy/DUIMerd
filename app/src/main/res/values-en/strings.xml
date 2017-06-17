@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Whosfree</string>
+    <string name="confpass">Confirm Password</string>
+    <string name="nonreg">Not Registered?</string>
+    <string name="cognome">Last name</string>
+    <string name="nome">First name</string>
+    <string name="register">Register</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+    <string name="add_group">Add group</string>
+    <string name="create_group">Create group</string>
+    <string name="action_update">Update</string>
+    <string name="group_name">Group name</string>
+    <string name="mattina">Morning</string>
+    <string name="member_name">Member Email</string>
+    <string name="nome_membro">Member name</string>
+    <string name="pomeriggio">Afternoon</string>
+    <string name="pranzo">Lunch</string>
+    <string name="sera">Evening</string>
+    <string name="cena">Dinner</string>
+    <string name="add_member">Add member</string>
+    <string name="accedi">Open</string>
+</resources>
